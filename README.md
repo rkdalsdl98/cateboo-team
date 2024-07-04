@@ -3,15 +3,15 @@
     <h2>👀 Member</h2>
     <div style="display: flex; justify-content: center; flex-direction: column;">
         <div>
-            <span style="font-size: 18px; font-weight: bold;">💂‍♂️ Name</span>
+            <span style="fontSize: 18px; fontWeight: bold;">💂‍♂️ Name</span>
             <p style="font-size: 16px;"> mango.ryu</p>
         </div>
         <div>
-            <span style="font-size: 18px; font-weight: bold;">✉ Contact</span>
-            <p style="font-size: 16px;"> ryoo0504@gmail.com</p>
+            <span style="fontSize: 18px; fontWeight: bold;">✉ Contact</span>
+            <p style="fontSize: 16px;"> ryoo0504@gmail.com</p>
         </div>
         <div>
-            <span style="font-size: 18px; font-weight: bold;">™ Professional</span>
+            <span style="fontSize: 18px; fontWeight: bold;">™ Professional</span>
             <p style="font-size: 16px;"> FullStack</p>
         </div>
     </div>
