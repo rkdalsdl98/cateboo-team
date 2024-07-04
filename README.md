@@ -6,12 +6,14 @@
             <img src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/>
         </picture>
     </div>
-    <h3>💂‍♂️ Name Is: Mango.Ryu</h3>
-    <p>✉ Contact Is: ryoo0504@gmail.com</p>
-    <p>™ Professional Is: FullStack</p>
-    <h3>🕵️‍♂️ Name Is: Jayden.Jeon</h3>
-    <p>✉ Contact Is: astray642@gmail.com</p>
-    <p>™ Professional Is: FullStack</p>
+    <div width="50%" align="center">
+        <h3>💂‍♂️ Name Is: Mango.Ryu</h3>
+        <p>✉ Contact Is: ryoo0504@gmail.com</p>
+        <p>™ Professional Is: FullStack</p>
+        <h3>🕵️‍♂️ Name Is: Jayden.Jeon</h3>
+        <p>✉ Contact Is: astray642@gmail.com</p>
+        <p>™ Professional Is: FullStack</p>
+    </div>
     <h3>👨‍⚕️ Name Is: Root.Song</h3>
     <p>✉ Contact Is: rmsdud2298@gmail.com</p>
     <p>™ Professional Is: Cloud</p>
