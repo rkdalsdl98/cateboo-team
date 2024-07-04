@@ -1,7 +1,7 @@
 <h1>카카오테크 부트캠프 10조</h1>  
 
 <div>
-    <img aling="center" src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/>
+    <div align="center"><img src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/></div>
     <h2>💂‍♂️ Name Is: Mango.Ryu</h2>
     <p>✉ Contact Is: ryoo0504@gmail.com</p>
     <p>™ Professional Is: FullStack</p>
