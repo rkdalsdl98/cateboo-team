@@ -19,20 +19,28 @@
         </td>
     </table>
     <table align="center">
-        <h3>👨‍⚕️ Name Is: Root.Song</h3>
-        <p>✉ Contact Is: rmsdud2298@gmail.com</p>
-        <p>™ Professional Is: Cloud</p>
-        <h3>👨‍🌾 Name Is: Kangmin.Han</h3>
-        <p>✉ Contact Is: rkdalsdl112@gmail.com</p>
-        <p>™ Professional Is: Cloud</p>
+        <td valign="top">
+            <h3>👨‍⚕️ Name Is: Root.Song</h3>
+            <p>✉ Contact Is: rmsdud2298@gmail.com</p>
+            <p>™ Professional Is: Cloud</p>
+        </td>
+        <td valign="top">
+            <h3>👨‍🌾 Name Is: Kangmin.Han</h3>
+            <p>✉ Contact Is: rkdalsdl112@gmail.com</p>
+            <p>™ Professional Is: Cloud</p>
+        </td>
     </table>
     <table align="center">
-        <h3>👩‍🔧 Name Is: Juyeon.Bae</h3>
-        <p>✉ Contact Is: ilnyu0756@naver.com</p>
-        <p>™ Professional Is: AI</p>
-        <h3>👩‍🏭 Name Is: Freya.Hong</h3>
-        <p>✉ Contact Is: hyj422@icloud.com</p>
-        <p>™ Professional Is: AI</p>
+        <td valign="top">
+            <h3>👩‍🔧 Name Is: Juyeon.Bae</h3>
+            <p>✉ Contact Is: ilnyu0756@naver.com</p>
+            <p>™ Professional Is: AI</p>
+        </td>
+        <td valign="top">
+            <h3>👩‍🏭 Name Is: Freya.Hong</h3>
+            <p>✉ Contact Is: hyj422@icloud.com</p>
+            <p>™ Professional Is: AI</p>
+        </td>
     </table>
 </div>
 
