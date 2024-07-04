@@ -30,7 +30,22 @@
         </picture>
 
 프로젝트 이름  
+[레포지토리 이동](https://github.com/rkdalsdl98/cateboo-team)
+    </div>
+    <div align="left">
+        <picture width="300px" heigth="200px">
+            <img width="300px" src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/>
+        </picture>
 
+프로젝트 이름  
+[레포지토리 이동](https://github.com/rkdalsdl98/cateboo-team)
+    </div>
+    <div align="left">
+        <picture width="300px" heigth="200px">
+            <img width="300px" src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/>
+        </picture>
+
+프로젝트 이름  
 [레포지토리 이동](https://github.com/rkdalsdl98/cateboo-team)
     </div>
 </table>
