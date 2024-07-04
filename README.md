@@ -6,7 +6,7 @@
             <img src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/>
         </picture>
     </div>
-    <table valing="center">
+    <table valign="center">
         <td valign="top">
             <h3>💂‍♂️ Name Is: Mango.Ryu</h3>
             <p>✉ Contact Is: ryoo0504@gmail.com</p>
