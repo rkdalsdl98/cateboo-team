@@ -7,12 +7,12 @@
         </picture>
     </div>
     <div width="100%" align="top">
-        <div width="50%" align="center">
+        <div align="center">
             <h3>💂‍♂️ Name Is: Mango.Ryu</h3>
             <p>✉ Contact Is: ryoo0504@gmail.com</p>
             <p>™ Professional Is: FullStack</p>
         </div>
-        <div width="50%" align="center">
+        <div align="center">
             <h3>🕵️‍♂️ Name Is: Jayden.Jeon</h3>
             <p>✉ Contact Is: astray642@gmail.com</p>
             <p>™ Professional Is: FullStack</p>
