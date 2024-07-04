@@ -24,7 +24,7 @@
 > 진행 하였던 팀 프로젝트 입니다.  
 
 <div width="100%" align="left">
-    <div align="center" width="300px" heigth="200px">
+    <div align="center">
         <picture>
             <img width="300px" src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/>
         </picture>
