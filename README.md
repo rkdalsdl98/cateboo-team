@@ -7,7 +7,7 @@
         </picture>
     </div>
     <table >
-        <td valign="top" border="none">
+        <td valign="top" border="none!important;">
             <h3>💂‍♂️ Name Is: Mango.Ryu</h3>
             <p>✉ Contact Is: ryoo0504@gmail.com</p>
             <p>™ Professional Is: FullStack</p>
