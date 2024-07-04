@@ -6,13 +6,18 @@
             <img src="https://github.com/rkdalsdl98/cateboo-team/assets/77562358/e4c59f61-96ec-4b67-abae-2ced85986746"/>
         </picture>
     </div>
-    <table style="border:0px solid white; width:100%;">
-        <td valign="top" style="border:0px; width:33.33%">
+    <style>
+        .info {
+            border: "none"
+        }
+    </style>
+    <table>
+        <td class="info" valign="top">
             <h3>💂‍♂️ Name Is: Mango.Ryu</h3>
             <p>✉ Contact Is: ryoo0504@gmail.com</p>
             <p>™ Professional Is: FullStack</p>
         </td>
-        <td valign="top" style="border:0px; width:33.33%">
+        <td valign="top">
             <h3>🕵️‍♂️ Name Is: Jayden.Jeon</h3>
             <p>✉ Contact Is: astray642@gmail.com</p>
             <p>™ Professional Is: FullStack</p>
